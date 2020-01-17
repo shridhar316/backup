@@ -1,0 +1,9 @@
+commit 8773ba127d1fe3c217ecfc874ee29c12303d4135
+tree 2cd42cc0ca14203dfe99723988ee56f58f41f458
+parent 522cff592db6521a98698953d631301e2c42d00f
+author shridhar316 <59692765+shridhar316@users.noreply.github.com> 2020-01-14 20:42:44 +0530
+committer GitHub <noreply@github.com> 2020-01-14 20:42:44 +0530
+
+    Update fact.c
+
+:100644 100644 bd7e15f85e2c6458b807bb9c8118b89f9637e124 3db462930c890ab2bce68772d75618796f738eec M	fact.c

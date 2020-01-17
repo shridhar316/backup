@@ -1,0 +1,12 @@
+Started on Jan 15, 2020 8:06:04 PM
+Started by event from 192.30.252.91 ⇒ http://13.233.86.84:8080/github-webhook/ on Wed Jan 15 20:06:03 UTC 2020
+Using strategy: Default
+[poll] Last Built Revision: Revision 8773ba127d1fe3c217ecfc874ee29c12303d4135 (refs/remotes/origin/master)
+using credential dcd73a52-5480-492a-8964-2d6d5061db98
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git ls-remote -h -- https://github.com/shridhar316/Devps.git # timeout=10
+Found 1 remote heads on https://github.com/shridhar316/Devps.git
+[poll] Latest remote head revision on refs/heads/master is: 98c0cf913f6f5a2f07e0f179600c5b1b77c869d4
+Done. Took 1.2 sec
+Changes found

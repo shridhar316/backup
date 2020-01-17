@@ -1,0 +1,22 @@
+Started by timer
+Running as SYSTEM
+Building on master in workspace /var/lib/jenkins/workspace/test2
+using credential dcd73a52-5480-492a-8964-2d6d5061db98
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/shridhar316/Devps.git # timeout=10
+Fetching upstream changes from https://github.com/shridhar316/Devps.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress -- https://github.com/shridhar316/Devps.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision e0ffb1a6a0b8e86293ae04d4cdc2592f5b0ccd63 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f e0ffb1a6a0b8e86293ae04d4cdc2592f5b0ccd63 # timeout=10
+Commit message: "files added"
+ > git rev-list --no-walk e0ffb1a6a0b8e86293ae04d4cdc2592f5b0ccd63 # timeout=10
+[test2] $ /bin/bash /tmp/jenkins3620541656610131754.sh
+/tmp/jenkins3620541656610131754.sh: line 2: cd: /home/ec2-user/Devps: Permission denied
+make: 'main.exe' is up to date.
+Finished: SUCCESS

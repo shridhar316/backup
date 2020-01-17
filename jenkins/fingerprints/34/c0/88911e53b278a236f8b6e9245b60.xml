@@ -1,0 +1,23 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-01-13 18:48:00.890 UTC</timestamp>
+  <md5sum>34c088911e53b278a236f8b6e9245b60</md5sum>
+  <fileName>Credential id=dcd73a52-5480-492a-8964-2d6d5061db98 name=shridhar316/******</fileName>
+  <usages>
+    <entry>
+      <string>test2</string>
+      <ranges>1-26</ranges>
+    </entry>
+    <entry>
+      <string>Project_1</string>
+      <ranges>1-8</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@2.3.0">
+      <timestamp>1579109322202</timestamp>
+      <nodeName>C_slave</nodeName>
+      <timestamp0>1579109206892</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>
